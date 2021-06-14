@@ -1,0 +1,55 @@
+[ {
+  "id" : 1,
+  "name" : "Алексей",
+  "coordinates" : {
+    "x" : 100000,
+    "y" : 5
+  },
+  "creationDate" : "2021-04-05T12:00:00.000+0300",
+  "realHero" : false,
+  "hasToothpick" : false,
+  "impactSpeed" : 5.0,
+  "soundtrackName" : "Bad Boys Blue - Kisses & Tears",
+  "weaponType" : "AXE",
+  "mood" : "CALM",
+  "car" : {
+    "name" : "Мой автомобиль.",
+    "cool" : true
+  }
+}, {
+  "id" : 5,
+  "name" : "Дмитрий",
+  "coordinates" : {
+    "x" : 100000,
+    "y" : 5
+  },
+  "creationDate" : "2021-04-05T12:00:00.000+0300",
+  "realHero" : false,
+  "hasToothpick" : false,
+  "impactSpeed" : 1.0,
+  "soundtrackName" : "In Flames - Cloud Connected",
+  "weaponType" : "PISTOL",
+  "mood" : "CALM",
+  "car" : {
+    "name" : "Мой автомобиль.",
+    "cool" : true
+  }
+}, {
+  "id" : 10,
+  "name" : "Андрей",
+  "coordinates" : {
+    "x" : 100000,
+    "y" : 5
+  },
+  "creationDate" : "2021-04-05T12:00:00.000+0300",
+  "realHero" : false,
+  "hasToothpick" : false,
+  "impactSpeed" : 10.0,
+  "soundtrackName" : "Кино - Хочу перемен",
+  "weaponType" : "AXE",
+  "mood" : "CALM",
+  "car" : {
+    "name" : "Мой автомобиль.",
+    "cool" : true
+  }
+} ]
